@@ -8,7 +8,8 @@ Incentivar o combate ao tabagismo.
 - CSS3
 
 ## 📝 O projeto
-![Screenshot_1](https://user-images.githubusercontent.com/96698803/158082998-01310327-c4d3-43ff-840c-c0d74ccc710b.png)
+
+![ezgif-2-63044db050](https://user-images.githubusercontent.com/96698803/158083091-059a09f0-3221-45c6-b05b-8bd0dd19155a.gif)
 
 ### Estrutura de arquivos
 
